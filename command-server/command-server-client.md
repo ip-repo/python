@@ -4,7 +4,17 @@ On this example i have created a server-client script that allow a client to exe
 
 https://github.com/ip-repo/python/assets/123945379/6f30b41a-3396-48c5-adcf-a7294ce0ca8c
 
-
+How to use:
+```
+git https://github.com/ip-repo/python.git
+python -m venv command-venv
+command-venv\scripts\activate
+pip install pyautogui
+pip install pillow
+cd command-server
+python cs-server.py #terminal 1
+python cs-client.py #terminal 2
+```
 
 The commands that the server-side allow are:
 1. DIR : list the content of a directory on the server.
