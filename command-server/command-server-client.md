@@ -11,6 +11,7 @@ python -m venv command-venv
 command-venv\scripts\activate
 pip install pyautogui
 pip install pillow
+pip install colorama
 cd command-server
 python cs-server.py #terminal 1
 python cs-client.py #terminal 2
