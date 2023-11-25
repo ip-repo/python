@@ -2,6 +2,10 @@
 On this example i have created a server-client script that allow a client to execute commands on on the server and get the command result.<br>
 
 
+https://github.com/ip-repo/python/assets/123945379/6f30b41a-3396-48c5-adcf-a7294ce0ca8c
+
+
+
 The commands that the server-side allow are:
 1. DIR : list the content of a directory on the server.
 2. DELETE : delete a file on server.
