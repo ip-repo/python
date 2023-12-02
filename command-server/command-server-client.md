@@ -1,4 +1,4 @@
-# simple commands server
+# commands server
 On this example i have created a server-client script that allow a client to execute commands on on the server and get the command result.<br>
 
 
