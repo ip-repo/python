@@ -21,4 +21,4 @@ pip install ttkbootstrap
 cd venv-manager
 python venv_manager.py
 ```
-**Make sure that the file venv_list.txt is in the same directory as the python file or make sure to change to the path in VenvManager __init__ : self.venvs_list_file = your path **
+**Make sure that the file venv_list.txt is in the same directory as the python file or make sure to change to the path in VenvManager __init__ : self.venvs_list_file = your path**
