@@ -1,7 +1,7 @@
 # python-collection
-this repo holds python scripts written by me.
+Python scripts written by me.
 
-Some of the links below direct to files in this repo and some to other repos.
+Some of the links below direct to files in this repo and some to other repos on this github.
 
 To use the programs just follow the instructions in each link.
 
