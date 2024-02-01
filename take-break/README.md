@@ -1,6 +1,7 @@
 # Pygame: Take a break 
-Create graphics or use as a screen saver program.
-[example.webm](https://github.com/ip-repo/python/assets/123945379/53fcd85d-e8ce-45a8-ad7a-8ec1e382f9c9)
+Create graphics or use as a screen saver program.<br>
+
+[example.webm](https://github.com/ip-repo/python/assets/123945379/f4cdab24-ad98-4052-87e7-35d96de5305c)
 
 
 ## What can you do it?
