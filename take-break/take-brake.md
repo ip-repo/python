@@ -51,7 +51,7 @@ Speed settings
 
 ```console
 speed_settings = {
-  "y_direction" : random.choice([-1,1]),
+  	"y_direction" : random.choice([-1,1]),
 	"x_direction" : random.choice([-1,1]),
 	"y_speed" : 6,
 	"x_speed" : 6
