@@ -4,7 +4,7 @@ Create graphics or use as a screen saver program.<br>
 [example.webm](https://github.com/ip-repo/python/assets/123945379/f4cdab24-ad98-4052-87e7-35d96de5305c)
 
 
-## What can you do it?
+## What can you do ?
 - This program allow user to control a bunch of bouncing nodes and edges on the screen.
 - The user can twick the program settings to create diffrent outcomes.
 - The user can pick a music folder to be played in the background.
