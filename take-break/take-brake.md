@@ -3,8 +3,6 @@ Create graphics or use as a screen saver program.<br>
 
 [example.webm](https://github.com/ip-repo/python/assets/123945379/d2507433-040f-4f68-8608-200d80d26065)
 
-
-
 ## What can you do ?
 - This program allow user to control a bunch of bouncing nodes and edges on the screen.
 - The user can twick the program settings to create diffrent outcomes.
@@ -12,13 +10,18 @@ Create graphics or use as a screen saver program.<br>
 - The user can also set the amount of time to run the program.
 ## How to use
 ```
+git clone https://github.com/ip-repo/python.git
+cd take-break
+python -m venv take-break-venv
+take-break-venv\scripts\activate
+pip install pygame #pygame version:2.5.2
+python main.py
 ```
 ## Change the settings
 Now, the settings below can be changed in order to achieve different outcomes so feel free to change them or just mark the random flag as True.
-
+The settings can be found under **app_settings.py**
 General settings:
 ```console
-general_settings = {
     "window-size" : (1240, 620), #width, height
     "clock-ticks" : 30, #fps
     "background-color" : "black", #can be any pygame color
@@ -26,8 +29,6 @@ general_settings = {
     "music" : "C:\\full\path\\to\\music\\folder\\",  #path to music folder "" for no music
     "random" : False, #random flag
     "random-change-time" : 1 * 1000 * 1 #if random flag is True then run change the nodes settings every x seconds.
-    
-}
 ```
 The node settings control the looks of the nodes and edges.
 ```console
@@ -51,11 +52,8 @@ The node settings control the looks of the nodes and edges.
 Speed settings
 
 ```console
-speed_settings = {
-  	"y_direction" : random.choice([-1,1]),
+	"y_direction" : random.choice([-1,1]),
 	"x_direction" : random.choice([-1,1]),
 	"y_speed" : 6,
 	"x_speed" : 6
-}
-
 ```
