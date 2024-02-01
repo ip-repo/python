@@ -5,7 +5,7 @@ Create graphics or use as a screen saver program.<br>
 
 ## What can you do ?
 - This program allow user to control a bunch of bouncing nodes and edges on the screen.
-- The user can tweak the program settings to create diffrent outcomes.
+- The user can tweak the program settings to create different outcomes.
 - The user can pick a music folder to be played in the background.
 - The user can also set the amount of time to run the program.
 ## How to use
