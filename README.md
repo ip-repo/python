@@ -6,7 +6,10 @@ Some of the links below direct to files in this repo and some to other repos on 
 To use the programs just follow the instructions in each link.
 
 <h3>Networking</h3>
-<a href="https://github.com/ip-repo/python/blob/main/command-server/command-server-client.md"> server-client: commands server </a>
+<a href="https://github.com/ip-repo/python/blob/main/command-server/command-server-client.md">server-client: commands server </a>
+
+<h3>Computer Graphics or Art</h3>
+<a href="https://github.com/ip-repo/python/blob/main/take-break/take-brake.md">Pygame: take a break </a>
 
 <h3>Gui</h3>
 <a href="https://github.com/ip-repo/vc/blob/main/README.md">PySide6: ubuntu volume controller</a>
