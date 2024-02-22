@@ -20,3 +20,7 @@ To use the programs just follow the instructions in each link.
 <a href="https://github.com/ip-repo/html-project-maker">html project maker</a>
 
 <a href="https://github.com/ip-repo/ip-checker">ip check</a>
+
+
+<hr>
+<a href="https://github.com/ip-repo/guides/blob/main/README.md">Click here for more guides and examples</a>
