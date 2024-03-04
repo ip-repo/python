@@ -12,9 +12,12 @@ To use the programs just follow the instructions in each link.
 <a href="https://github.com/ip-repo/python/blob/main/take-break/take-brake.md">Pygame: take a break </a>
 
 <h3>Gui</h3>
+
 <a href="https://github.com/ip-repo/vc/blob/main/README.md">PySide6: ubuntu volume controller</a>
 
-<a href="https://github.com/ip-repo/python/blob/main/venv-manager/venv-manager.md"> ttkbootstrap : venv manager</a>
+<a href="https://github.com/ip-repo/python/blob/main/venv-manager/venv-manager.md">ttkbootstrap : venv manager</a>
+
+<a href="https://github.com/ip-repo/conversation-maker/blob/main/README.md">PySide6: text to speech conversation maker</a>
 
 <h3>Cli</h3>
 <a href="https://github.com/ip-repo/html-project-maker">html project maker</a>
