@@ -5,7 +5,7 @@ import streamlit as st
 sentiment_analyzer = pipeline("sentiment-analysis", model="distilbert/distilbert-base-uncased-finetuned-sst-2-english")
 
 
-st.title("Sentiment Analysis Chatbot")
+st.title("Sentiment Analysis")
 user_input = st.text_input("Enter your message:")
 
 if user_input:
