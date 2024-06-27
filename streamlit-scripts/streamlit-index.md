@@ -3,7 +3,7 @@
 This section is dedicated to streamlit applications.
 
 
-### 1. <a href="https://github.com/ip-repo/python/blob/main/streamlit-scripts/sentiment-analysis.py">Simple sentiment analysis </a>
+### 1. Simple sentiment analysis 
 
 ![sentiment](https://github.com/ip-repo/python/assets/123945379/28617251-37c7-4e6e-8846-fba7aee1c8b7)
 
@@ -24,7 +24,7 @@ python sentiment-analysis.py
 This is a basic chatbot that allow user to get information about different countires, it use the greate python package countryinfo.
 Feel free to teak the the script to add additional information if your need it.
 
-Install the requirements and download or copy the python file here: 
+Install the requirements and download or copy the python file here: <a href="https://github.com/ip-repo/python/blob/main/streamlit-scripts/country_info_bot.py">Country information chatbot</a>
 
 ```console
 pip install streamlit
