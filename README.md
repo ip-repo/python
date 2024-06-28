@@ -21,6 +21,8 @@ To use the programs just follow the instructions in each link.
 
 <a href="https://github.com/ip-repo/python/blob/main/venv-manager/venv-manager.md">ttkbootstrap : venv manager</a>
 
+<a href="https://github.com/ip-repo/camera-capture/blob/main/README.md">PySide6: Choose camera device and capture images and save them</a>
+
 
 
 <h3>Cli</h3>
