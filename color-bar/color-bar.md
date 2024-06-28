@@ -1,7 +1,9 @@
 # Using PySide6 Threads to create a color bar
 This and example of using `QThreadPool` and  `QRunnable` to create basic art. 
-
 Just a bunch of labels that change there background color every time a `Signal` is recived.
+
+[colorbar-thin.webm](https://github.com/ip-repo/python/assets/123945379/9d6b48fc-4ebb-4fb6-98f9-42e4ad192cce)
+
 ### How to use
 - Download or copy the python script <a href="https://github.com/ip-repo/python/blob/main/color-bar/color_bar.py"> `color_bar.py` </a>
 
