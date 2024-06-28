@@ -10,6 +10,7 @@ To use the programs just follow the instructions in each link.
 
 <h3>Computer Graphics or Art</h3>
 <a href="https://github.com/ip-repo/python/blob/main/color-bar/color-bar.md">PySide6: Using QThreadPool to create changing color bars</a>
+
 <a href="https://github.com/ip-repo/python/blob/main/take-break/take-brake.md">Pygame: take a break </a>
 
 <h3>Gui</h3>
