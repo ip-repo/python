@@ -13,7 +13,7 @@ python color_bar.py
 
 ```
 
-You can also tweak some settings to get a different outcome just can the variables that are sent to the class `ColorBar`.
+You can also tweak some settings to get a different outcome just change the variables that are sent to the class `ColorBar`.
 
 ```python
 colors_list = ["red","orange","yellow","green","blue","black","white","cyan"] #you can add any color that qt stylesheet can get/
