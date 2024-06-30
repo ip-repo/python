@@ -4,13 +4,13 @@ The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noi
 photo with added noise, each iteration it will have more noise and finally it will take all the photos and create a gif out of it.
 For example I have used this script to illustrate diffusion models :
 
-### Forward diffusion process
+### Forward diffusion process illustration
 - Gradually transforms an image into noise.
 - Adds noise step by step.
 - Destorys image structure.
 
 ![forward_diffusion](https://github.com/ip-repo/python/assets/123945379/68a8a66b-e0ff-43d2-916d-55d60e24cb8c)
-### Reverse diffusion process 
+### Reverse diffusion process illustration
 
 - Restores sturucture from noisy data.
 - Converts noise back to an image.
