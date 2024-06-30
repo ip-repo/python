@@ -1,6 +1,6 @@
 from PIL import Image, ImageChops
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 # Replace with your image path
 image_path = "boat.png"  
