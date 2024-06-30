@@ -1,4 +1,5 @@
 # Playing with noise
+
 ## 1.Accumulative random noise 
  The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/accumulative_noise.py">`accumulative_noise.py`</a> take a photo and create a copy of that 
 photo with added noise, each iteration it will have more noise and finally it will take all the photos and create a gif out of it.
@@ -24,7 +25,7 @@ noisy_images[0].save("reverse_diffusion.gif", save_all=True, append_images=noisy
 
 
 ## 2. Random noise
-The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/random_noise.py">random_noise.py</a> take a photo and add some random noise to it.
+The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/random_noise.py">`random_noise.py`</a> take a photo and add some random noise to it.
 It does that process for a given number of times and then saves the images as a gif.
 
 ![old-street](https://github.com/ip-repo/python/assets/123945379/7d153c79-1613-4a6f-a9f6-6cc5f43d984b)
@@ -34,6 +35,13 @@ The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noi
 shift's a picture along the x axis to create a sliding effect and add noise to images and finally create a gif.
 
 ![boat-shift](https://github.com/ip-repo/python/assets/123945379/5e14dca2-d4e8-4dc5-bb1e-e2c6ca8f6abe)
+
+## 4. Bounce and noise
+This script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/bounce_and_noise.py">`bounce_and_noise.py`</a> shit the image along the X and Y axis 
+and the result can appear to have a shaking or bouncing effect.
+
+
+![bouncing-face](https://github.com/ip-repo/python/assets/123945379/66e06a18-67cc-46c9-8c8b-5d84d71fb6c8)
 
 
 
