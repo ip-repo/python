@@ -37,8 +37,7 @@ shift's a picture along the x axis to create a sliding effect and add noise to i
 ![boat-shift](https://github.com/ip-repo/python/assets/123945379/5e14dca2-d4e8-4dc5-bb1e-e2c6ca8f6abe)
 
 ## 4. Bounce and noise
-This script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/bounce_and_noise.py">`bounce_and_noise.py`</a> shit the image along the X and Y axis 
-and the result can appear to have a shaking or bouncing effect.
+This script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/bounce_and_noise.py">`bounce_and_noise.py`</a> shiftt the image along the X and Y axis back and forwar and the result can appear to have a shaking or bouncing effect.
 
 
 ![bouncing-face](https://github.com/ip-repo/python/assets/123945379/66e06a18-67cc-46c9-8c8b-5d84d71fb6c8)
