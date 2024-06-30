@@ -15,7 +15,8 @@ original_image = Image.open(image_path)
 noisy_images = []
 
 # Add noise step by step
-for _ in range(num_of_images ):
+for _ in range(num_of_images):
+    
     image = original_image
     image_array = np.array(image)
 
