@@ -1,6 +1,6 @@
 # Playing with noise
-
-The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/accumulative_noise.py">`accumulative_noise.py`</a> take a photo and create a copy of that 
+## 1.Accumulative random noise 
+ The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/accumulative_noise.py">`accumulative_noise.py`</a> take a photo and create a copy of that 
 photo with added noise, each iteration it will have more noise and finally it will take all the photos and create a gif out of it.
 For example I have used this script to illustrate diffusion models :
 
@@ -21,3 +21,11 @@ noisy_images[0].save("reverse_diffusion.gif", save_all=True, append_images=noisy
 ```
 
 ![reverse_process](https://github.com/ip-repo/python/assets/123945379/2ee74c97-ad6c-4b53-9457-43e93ea933d8)
+
+
+## 2. Random noise
+The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/random_noise.py">random_noise.py</a> take a photo and add some random noise to it.
+It does that process for a given number of times and then saves the images as a gif.
+
+![old-street](https://github.com/ip-repo/python/assets/123945379/7d153c79-1613-4a6f-a9f6-6cc5f43d984b)
+
