@@ -11,7 +11,7 @@ max_noise = 120
 # Load the image
 original_image = Image.open(image_path)
 
-# Store the noist images to convert later to gif
+# Store the noisy images to convert later to gif
 noisy_images = []
 
 # Add noise step by step
