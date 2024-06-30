@@ -29,3 +29,12 @@ It does that process for a given number of times and then saves the images as a 
 
 ![old-street](https://github.com/ip-repo/python/assets/123945379/7d153c79-1613-4a6f-a9f6-6cc5f43d984b)
 
+## 3. Shift and noise
+The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/noise_and_shift.py">`noise_and_shift.py`</a>
+shift's a picture along the x axis to create a sliding effect and add noise to images and finally create a gif.
+
+![boat-shift](https://github.com/ip-repo/python/assets/123945379/5e14dca2-d4e8-4dc5-bb1e-e2c6ca8f6abe)
+
+
+
+
