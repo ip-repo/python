@@ -39,9 +39,10 @@ shift's a picture along the x axis to create a sliding effect and add noise to i
 ## 4. Bounce and noise
 This script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/bounce_and_noise.py">`bounce_and_noise.py`</a> shiftt the image along the X and Y axis back and forward and the result can appear to have a shaking or bouncing effect.
 
-
 ![bouncing-face](https://github.com/ip-repo/python/assets/123945379/66e06a18-67cc-46c9-8c8b-5d84d71fb6c8)
 
+## 5. Mean noise
+This script<a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/mean_noise.py">`mean_noise.py`</a> create random noise and add the mean of that noise to the images and create a gif .
 
-
+![village](https://github.com/ip-repo/python/assets/123945379/ab6bd41b-7fc4-494d-b8b9-cc7a2d6f27cd)
 
