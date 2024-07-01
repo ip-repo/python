@@ -1,5 +1,12 @@
 # Playing with noise
 
+Required modules:
+
+```console
+pip install pillow
+pip install numpy
+
+```
 ## 1.Accumulative random noise 
  The script <a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/accumulative_noise.py">`accumulative_noise.py`</a> take a photo and create a copy of that 
 photo with added noise, each iteration it will have more noise and finally it will take all the photos and create a gif out of it.
