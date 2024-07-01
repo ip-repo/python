@@ -14,6 +14,8 @@ To use the programs just follow the instructions in each link.
 
 <a href="https://github.com/ip-repo/python/blob/main/take-break/take-brake.md">Pygame: take a break </a>
 
+<a href="https://github.com/ip-repo/python/blob/main/playing-with-noise/noisy-examples.md">Pillow and numpy: Playing with noise</a>
+
 <h3>Gui</h3>
 
 <a href="https://github.com/ip-repo/vc/blob/main/README.md">PySide6: ubuntu volume controller</a>
