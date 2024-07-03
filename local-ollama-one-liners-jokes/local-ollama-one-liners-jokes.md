@@ -9,4 +9,4 @@ Dependencies:
 pip install langchain-community #0.26
 pip install gradio 4.37.2
 ```
-The script can be downloaded or copied here : <a href="">`ollama_gradio_joker.py`</a>
+The script can be downloaded or copied here : <a href="https://github.com/ip-repo/python/tree/main/local-ollama-one-liners-jokes">`ollama_gradio_joker.py`</a>
