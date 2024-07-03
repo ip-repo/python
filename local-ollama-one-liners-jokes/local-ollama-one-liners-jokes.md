@@ -14,4 +14,4 @@ The script can be downloaded or copied here : <a href="https://github.com/ip-rep
 ```console
 python ollama_gradio_joker.py 
 ```
-The app should be launched in new browser tab if for some case this do not happen run it and navigate to the localhost address assigned for the app( it will be written as output after running the script).
+The app should be launched in new browser tab if for some case this do not happen run it and navigate to the localhost address assigned for the app (it will be written as output after running the script).
