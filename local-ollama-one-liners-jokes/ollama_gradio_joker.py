@@ -26,7 +26,6 @@ def process_choice(model: str,keywords: str)-> str:
     return Ollama(model=model.strip()).invoke(f"Generate a one-liner joke, here are some keywords: {keywords}.Make sure to use at least one keyword.")
 
 if __name__ == "__main__":
-   
     models_list = create_models_list()
     with gr.Blocks(css=".gradio-container {background-color: lightgray}",theme=gr.themes.Soft(primary_hue="red", secondary_hue="blue")) as joker:
         dropdown = gr.Dropdown(label="Choose model",allow_custom_value=False,choices=models_list,value=models_list[0])
