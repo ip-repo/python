@@ -22,7 +22,7 @@ python sentiment-analysis.py
 ![coninfo](https://github.com/ip-repo/python/assets/123945379/4e850722-d7e4-4da1-9e78-b8419cc5a2d1)
 
 This is a basic chatbot that allow user to get information about different countires, it use the greate python package countryinfo.
-Feel free to teak the the script to add additional information if your need it.
+Feel free to tweak the the script to add additional information if your need it.
 
 Install the requirements and download or copy the python file here: <a href="https://github.com/ip-repo/python/blob/main/streamlit-scripts/country_info_bot.py">Country information chatbot</a>
 
