@@ -5,8 +5,13 @@ Some of the links below direct to files in this repo and some to other repos on 
 
 To use the programs just follow the instructions in each link.
 
-<h3>Networking</h3>
-<a href="https://github.com/ip-repo/python/blob/main/command-server/command-server-client.md">server-client: commands server </a>
+<h3> Web apps</h3>
+
+<a href="https://github.com/ip-repo/python/blob/main/local-ollama-one-liners-jokes/local-ollama-one-liners-jokes.md"> One-liner jokes generator with local Ollama and gradio </a>
+
+
+<a href="https://github.com/ip-repo/python/blob/main/streamlit-scripts/streamlit-index.md">Streamlit Applications</a>
+
 
 <h3>Computer Graphics or Art</h3>
 
@@ -29,15 +34,13 @@ To use the programs just follow the instructions in each link.
 <a href="https://github.com/ip-repo/camera-capture/blob/main/README.md">PySide6: Choose camera device and capture images and save them</a>
 
 
+<h3>Networking</h3>
+<a href="https://github.com/ip-repo/python/blob/main/command-server/command-server-client.md">server-client: commands server </a>
 
 <h3>Cli</h3>
 <a href="https://github.com/ip-repo/html-project-maker">html project maker</a>
 
 <a href="https://github.com/ip-repo/ip-checker">ip check</a>
-
-<h3> Web apps</h3>
-
-<a href="https://github.com/ip-repo/python/blob/main/streamlit-scripts/streamlit-index.md">Streamlit Applications</a>
 
 
 <hr>
