@@ -34,4 +34,4 @@ if __name__ == "__main__":
         greet_btn = gr.Button("Make me laugh",)
         greet_btn.click(fn=process_choice, inputs=[dropdown,keyword], outputs=output, api_name="greet")
 
-    joker.launch()
+    joker.launch(inbrowser=True)
