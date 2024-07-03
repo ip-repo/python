@@ -9,4 +9,9 @@ Dependencies:
 pip install langchain-community #0.26
 pip install gradio 4.37.2
 ```
-The script can be downloaded or copied here : <a href="https://github.com/ip-repo/python/blob/main/local-ollama-one-liners-jokes/ollama_gradio_joker.py">`ollama_gradio_joker.py`</a>
+
+The script can be downloaded or copied here : <a href="https://github.com/ip-repo/python/blob/main/local-ollama-one-liners-jokes/ollama_gradio_joker.py">`ollama_gradio_joker.py`</a>.
+```console
+python ollama_gradio_joker.py 
+```
+The app should be launched in new browser tab if for some case this do not happen run it and navigate to the localhost address assigned for the app( it will be written as output after running the script).
