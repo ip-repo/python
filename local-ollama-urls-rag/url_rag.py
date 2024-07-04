@@ -178,14 +178,14 @@ if __name__ == "__main__":
 		fn=url_rag.start_process,
 		chatbot=gradio.Chatbot(height=500),
 		
-		textbox=gradio.Textbox(placeholder="Enter your prompt in the correct for Question::url,url,url", container=False, scale=7),
+		textbox=gradio.Textbox(placeholder="Enter your prompt in the correct format => Question::url,url,url", container=False, scale=7),
 
 		title="Answer Questions based on urls",
-		description="""This is a web app that will alow you to ask question based on urls that you proived.
-		Make sure to use the correct format Question::url,url,url
+		description="""This is a web app that will alow you to ask questions based on urls that you proived.
+		Make sure to use the correct format => Question::url,url,url
 		""",
 		theme="soft" ,
-		examples=["When was Gustav born::https://en.wikipedia.org/wiki/Gustave_Eiffel",
+		examples=["When was Gustav born?::https://en.wikipedia.org/wiki/Gustave_Eiffel",
 				"When the storming took place and what intersting things there is to tell about that building?::https://en.wikipedia.org/wiki/Storming_of_the_Bastille,https://en.wikipedia.org/wiki/Bastille"],
 		cache_examples=False,
 		retry_btn=None,
