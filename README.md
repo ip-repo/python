@@ -9,6 +9,8 @@ To use the programs just follow the instructions in each link.
 
 <a href="https://github.com/ip-repo/python/blob/main/local-ollama-one-liners-jokes/local-ollama-one-liners-jokes.md"> One-liner jokes generator with local Ollama and gradio </a>
 
+<a href="https://github.com/ip-repo/python/blob/main/local-ollama-urls-rag/local-ollama-urls-rag-gradio.md"> RAG gradio app that answer question based on urls</a>
+
 
 <a href="https://github.com/ip-repo/python/blob/main/streamlit-scripts/streamlit-index.md">Streamlit Applications</a>
 
