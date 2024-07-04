@@ -39,7 +39,7 @@ chunk_overlap = 100
 ```
 Now you can run the file and it should open the app in a new tab.
 
-Note: make sure to prompt with the following format:  **Question::url,url,url**.
+Note: make sure to prompt with the following format:  **Question::url,url,url**
 
 ### Limitations 
 * No memory, if you want to ask more questions and urls you already have asked before you will need to resend the urls.
