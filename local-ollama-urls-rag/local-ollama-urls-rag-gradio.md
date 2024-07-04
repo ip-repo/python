@@ -26,7 +26,7 @@ pip install gradio #4.37.2
 pip install tiktoken #0.7.0
 pip install beautifulsoup4 #4.12.3
 ```
-Download or copy the script `url_rag.py`.
+Download or copy the script <a href="https://github.com/ip-repo/python/tree/main/local-ollama-urls-rag/url_rag.py">`url_rag.py`</a>.
 
 Then in the file you can change the local model to use and other settings.
 ```python
