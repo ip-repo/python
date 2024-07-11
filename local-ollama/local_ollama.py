@@ -21,7 +21,6 @@ def get_available_ollama_models(url="http://127.0.0.1:11434/api/tags"):
 
 		return output
 
-
 class EasyOllama:
 	def __init__(self, model:str="mistral",chat_history: list=[]) -> None:
 		"""
