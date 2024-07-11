@@ -1,9 +1,14 @@
 # Using local ollama with a streamlit ui
+
+![locollama](https://github.com/ip-repo/python/assets/123945379/fa29cf25-9377-425b-9ec5-dbf33fd46111)
+
 The user can choose from the models installed on his system ollama server and define a system message for the model.
 
 After clicking on the submit button the chat is ready and the user can start prompting.
 
 ## How to use:
+
+
 * Install ollama and also install at least one model #i've used the ollama version 0.1.48
 * Create a venv and install dependecies :
 
