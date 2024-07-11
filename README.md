@@ -7,6 +7,8 @@ To use the programs just follow the instructions in each link.
 
 <h3> Web apps</h3>
 
+<a href="https://github.com/ip-repo/python/blob/main/local-ollama/local-ollama.md">Using local ollama models from a streamlit ui</a>
+
 <a href="https://github.com/ip-repo/python/blob/main/local-ollama-one-liners-jokes/local-ollama-one-liners-jokes.md"> One-liner jokes generator with local Ollama and gradio </a>
 
 <a href="https://github.com/ip-repo/python/blob/main/local-ollama-urls-rag/local-ollama-urls-rag-gradio.md"> RAG gradio app that answer question based on urls by using local ollama models</a>
