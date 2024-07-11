@@ -8,14 +8,15 @@ the chat is ready and the user can start prompting.
 
 
 ```console 
-pip install requestspip install                 #2.32.3
+pip install requests                            #2.32.3
 pip install langchain-community                 #0.2.6
 pip install langchain-core                      #0.2.11
 pip install streamlit                           #1.36.0
 ```
-Good now you can download or copy the script `local_ollama.py`
+Good now you can download or copy the script <a href="https://github.com/ip-repo/python/blob/main/local-ollama/local_ollama.py">`local_ollama.py`</a>
 
-make sure to activate your venv and run the script like that:
+Make sure to activate your venv and run the script like that:
+
 ```console
 streamlit run local_ollama.py
 ```
