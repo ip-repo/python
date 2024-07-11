@@ -73,7 +73,6 @@ class StreamlitUI:
 		streamlit.title("EasyOllama")
 		with streamlit.sidebar:
 			with streamlit.form("my_form"):
-				streamlit.write("Inside the form")
 				self.select_model = streamlit.selectbox(label="Choose model:", options=self.modles_list)
 				self.text = streamlit.text_area(label="Enter assitant role", value="a rude bike messenger", height=None, max_chars=None, key=None, help=None, on_change=None, args=None, kwargs=None,  placeholder=None, disabled=False, label_visibility="visible")
 				submitted = streamlit.form_submit_button("Submit")
