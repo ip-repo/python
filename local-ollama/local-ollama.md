@@ -19,7 +19,7 @@ pip install langchain-community                 #0.2.6
 pip install langchain-core                      #0.2.11
 pip install streamlit                           #1.36.0
 ```
-Good now you can download or copy the script <a href="https://github.com/ip-repo/python/blob/main/local-ollama/local_ollama.py">`local_ollama.py`</a>
+Good, now you can download or copy the script <a href="https://github.com/ip-repo/python/blob/main/local-ollama/local_ollama.py">`local_ollama.py`</a>
 
 Make sure to activate your venv and run the script like that:
 
