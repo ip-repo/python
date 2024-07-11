@@ -1,5 +1,5 @@
 # Using local ollama with a streamlit ui
-The user can in this app choose from the models installed on his system and define a system message for the model.
+The user can choose from the models installed on his system ollama server and define a system message for the model.
 
 After clicking on the submit button the chat is ready and the user can start prompting.
 
