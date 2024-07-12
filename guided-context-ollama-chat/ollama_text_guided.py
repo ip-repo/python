@@ -176,7 +176,7 @@ if __name__ == "__main__":
 			file_contents.append(file.read().decode("utf-8"))
 		context = [f"{file_content}" for _, file_content in enumerate(file_contents)]
 		with st.chat_message("ai"):
-				st.markdown("You can now ask question based on the files uploaded: " + ", ".join([file.name  for file in uploaded_files]))
+				st.markdown("You can now ask questions based on the files uploaded: " + ", ".join([file.name  for file in uploaded_files]))
 	# Define user input
 	user_input = st.chat_input("Ask a question: ")
 
