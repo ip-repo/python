@@ -1,4 +1,4 @@
-# Ollama local models with guided context from text files and a streamlit ui
+# Use Ollama locally with guided context from text files and a streamlit ui
 
 This app allow the user to upload text files and to ask question about them.<br>
 In this process no indexing or retrivers are used but just plain text guidance.<br>
