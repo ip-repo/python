@@ -7,7 +7,7 @@ generate a one-liner joke.
 Dependencies:
 ```console
 pip install langchain-community #0.26
-pip install gradio 4.37.2
+pip install gradio #4.37.2
 ```
 
 The script can be downloaded or copied here : <a href="https://github.com/ip-repo/python/blob/main/local-ollama-one-liners-jokes/ollama_gradio_joker.py">`ollama_gradio_joker.py`</a>.
