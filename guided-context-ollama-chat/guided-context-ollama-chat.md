@@ -5,7 +5,7 @@ In this process no indexing or retrivers are used but just plain text guidance.<
 In order to use this app you need to have ollama installed on your system with at least one model.
 
 ## How to use:
-Create a folder in inside of it create a venv and install dependencies:
+Create a folder and inside create a venv and install dependencies:
 ```
 mkdir ogc
 cd ogc
