@@ -167,7 +167,7 @@ if __name__ == "__main__":
 		st.session_state.messages = []
 
 	# Chat section title
-	st.title("Chatbot with context from Textfiles.")
+	st.title("Chatbot with context from Textfiles")
 	
 	# File uploaded logic
 	if uploaded_files:
