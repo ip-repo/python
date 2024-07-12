@@ -24,4 +24,4 @@ streamlit ollama_text_guided.py
 
 Notes:
 * The app do not save chat history, the idea is that the models will responde only based on the uploaded text files and the current question.
-* The streamlit ui get some css code that might not work well on every browser if that is the case just comment or remove the variable `page_css` and also the line `st.markdown(page_css, unsafe_allow_html=True)`.
+* The streamlit ui get some css code that might not work well on every browser if that is the case just comment or remove the variable `page_css (line 66)` and also the line `st.markdown(page_css, unsafe_allow_html=True) (line 157)`.
