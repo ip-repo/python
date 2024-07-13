@@ -20,7 +20,7 @@ pip install streamlit                           #1.36.0
 Download or copy the script  <a href="https://github.com/ip-repo/python/blob/main/guided-context-ollama-chat/ollama_text_guided.py">`ollama_text_guided.py`</a> and place it inside the folder you created (`ogc` on this exmaple).
 
 ```console
-streamlit ollama_text_guided.py
+streamlit run ollama_text_guided.py
 ```
 
 Notes:
