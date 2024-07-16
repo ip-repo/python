@@ -370,7 +370,7 @@ if __name__ == "__main__":
     parser.add_argument("embeddingmodel", help="The embedding model to use.", type=str)
     parser.add_argument("-cs","--chunksize", help="Set chunk size.", type=int)
     parser.add_argument("-co","--chunkoverlap", help="Set chunk overlap size.", type=int)
-    parser.add_argument("-nr", "--nresults", help="How many context chunks to use when retriving (closest matches).", type=int)
+    parser.add_argument("-nr", "--nresults", help="Number of closest matches to the query.", type=int)
 
     args = parser.parse_args()
     parse_args = ParseArgs(args=args)
