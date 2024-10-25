@@ -7,7 +7,7 @@ To use the programs just follow the instructions in each link.
 
 <h3> Playing with LLM's</h3>
 
-<a href="https://github.com/ip-repo/ollama_st_app/blob/main/README.md"> Chat with ollama localy and save chat history</a>
+<a href="https://github.com/ip-repo/ollama_st_app/blob/main/README.md"> Chat with ollama local models and save chat history</a>
 
 <a href="https://github.com/ip-repo/python/blob/main/ollama-rag-cli/ollama-rag-cli.md"> A local ollama RAG cli that allow to ask questions about pdf and text files</a>
 
